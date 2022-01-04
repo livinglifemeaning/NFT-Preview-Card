@@ -6,7 +6,7 @@ Github Pages Site: https://livinglifemeaning.github.io/NFT-Preview-Card/
 - I need to position things better without using "transform" property.
 - Practice correct ways of html markup 
 
-###Built with
+### Built with:
 -HTML
 -SASS
 -JavaScript
